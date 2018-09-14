@@ -34,7 +34,7 @@ class App extends React.Component {
                 </Menu>
             </Sider>
             <Layout>
-                <Content style={{ margin: '12px 0' }}>
+                {/* <Content style={{ margin: '12px 0' }}>
                     <div style={{ padding: 24, background: '#fff', minHeight: 600 }}>
                         <QueueAnim>
                             <div key="demo1">依次进场</div>
@@ -43,7 +43,7 @@ class App extends React.Component {
                             <div key="demo4">依次进场</div>
                         </QueueAnim>
                     </div>
-                </Content>
+                </Content> */}
             </Layout>
         </Layout>
       </div>
